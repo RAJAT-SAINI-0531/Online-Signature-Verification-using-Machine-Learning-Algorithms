@@ -1,6 +1,5 @@
 # Online Signature Verification using Machine Learning Algorithms
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-brightgreen.svg)
 ![ML](https://img.shields.io/badge/ML-scikit--learn-orange.svg)
 
@@ -325,7 +324,7 @@ python signature_verification_.py
 
 - 📧 Contact: rajatsaini.dev@gmail.com
 - 🎓 Institution: BME
-- 📅 Year: 2024-2025
+- 📅 Year: 2025
 
 ---
 <div align="center">
